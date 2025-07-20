@@ -1,0 +1,26 @@
+
+---
+
+### ✅ `.gitignore` for Vite + React + Tailwind
+
+```gitignore
+# dependencies
+/node_modules
+
+# build
+/dist
+
+# misc
+.DS_Store
+.env
+.env.local
+.env.*.local
+
+# editor directories and files
+.vscode/
+.idea/
+*.log
+
+# system
+Thumbs.db
+*.swp
