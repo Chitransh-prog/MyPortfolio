@@ -33,19 +33,6 @@ Welcome to my personal portfolio website — a showcase of my projects, skills, 
 - **Deployment**: Vercel
 - **Assets**: Figma, Canva, Custom Illustrations
 
----
-
-## 📁 Folder Structure
-
-src/
-│
-├── components/ # Navbar, Footer, Backgrounds
-├── pages/ # Home, About, Projects, etc.
-├── assets/ # Images, icons, logos
-├── animation/ # SplitText, AOS, and other effects
-├── App.jsx # Main application
-├── index.js # React entry poin
-
 
 ---
 
