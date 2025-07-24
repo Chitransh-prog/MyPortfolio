@@ -19,7 +19,7 @@ function Home() {
 
         {/* Typing effect + waving hand */}
         <div className="text-white text-3xl md:text-4xl font-bold whitespace-nowrap overflow-hidden border-r-4 border-white pr-3 animate-typing">
-          Hey! I'm Chitransh Prasad{" "}
+          Hey! <br/> I'm Chitransh Prasad
           <span className="inline-block ml-2 animate-waving-hand">👋</span>
         </div>
 
