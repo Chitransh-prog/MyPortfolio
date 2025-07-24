@@ -10,7 +10,7 @@ Welcome to my personal portfolio website — a showcase of my projects, skills, 
 
 ## 🔗 Live Demo
 
-🌐 **Visit the website**: [https://your-portfolio.vercel.app](https://your-portfolio.vercel.app)
+🌐 **Visit the website**: [https://your-portfolio.vercel.app](https://chitranshprasad.vercel.app)
 
 ---
 
@@ -31,15 +31,6 @@ Welcome to my personal portfolio website — a showcase of my projects, skills, 
 - **Frontend**: React, Tailwind CSS
 - **Animations**: AOS, CSS keyframes
 - **Deployment**: Vercel
+- **UI Component libraries used**: Flowbite, ReactBits
 - **Assets**: Figma, Canva, Custom Illustrations
 
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/Chitransh-prog/myPortfolio.git
-cd myPortfolio
